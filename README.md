@@ -1,5 +1,5 @@
-#My Portfolio
-(live link)[https://thekarancode0.github.io/myPortfolio/]
+#My Portfolio <br>
+(live link) [https://thekarancode0.github.io/myPortfolio/]
 
 Creating a simple and animated Portfolio
 
